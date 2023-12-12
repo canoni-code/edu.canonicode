@@ -10,3 +10,4 @@ theme = 'hugo-theme-gruvbox'
 [taxonomies]
     category = "categories"
     tag = "tags"
+    series: "series"
