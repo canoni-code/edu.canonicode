@@ -12,3 +12,5 @@ theme = 'hugo-theme-gruvbox'
     tag = "tags"
     series: "series"
 
+[build]
+  minify = true
