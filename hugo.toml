@@ -11,3 +11,4 @@ theme = 'hugo-theme-gruvbox'
     category = "categories"
     tag = "tags"
     series: "series"
+
