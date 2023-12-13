@@ -1,4 +1,4 @@
-baseURL = 'https://canoni-code.github.io/edu.canonicode/'
+baseURL = 'https://canoni-code.github.io'
 languageCode = 'en-us'
 title = 'Canonicode'
 
